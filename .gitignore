@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.venv/
+results_lg_static/
+results_lg_dynamic/
+results_dynamic_b/
+data/*.json
+results/*.json
+!results/metrics_output.json

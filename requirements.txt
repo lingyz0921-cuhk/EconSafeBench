@@ -1,0 +1,9 @@
+langchain-core==1.4.0
+langchain-openai==1.2.2
+langchain-google-genai==4.2.4
+langchain-protocol==0.0.16
+langgraph==1.2.4
+langgraph-checkpoint==4.1.1
+langgraph-prebuilt==1.1.0
+langgraph-sdk==0.4.2
+numpy==2.4.1
